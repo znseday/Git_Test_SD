@@ -3,7 +3,11 @@
 
 using namespace std;
 
+///
+/// \brief PrintDasha_01
+///
 void PrintDasha_01()
 {
     cout << "Dasha_01" << endl;
+    // еще одна строчка
 }
