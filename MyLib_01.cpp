@@ -7,3 +7,8 @@ void Print_Sergey_01()
 {
     cout << "Sergey_01" << endl;
 }
+
+void Print_Sergey_02()
+{
+    cout << "Sergey_02" << endl;
+}
