@@ -5,5 +5,5 @@ using namespace std;
 
 void PrintDasha_01()
 {
-    cout << "Dasha_01" << endl;
+    cout << "Dasha_01" << endl; // Комментарий от Сергея
 }

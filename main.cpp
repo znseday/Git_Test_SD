@@ -10,7 +10,7 @@ int main()
     Print_Sergey_02();
     PrintDasha_01();
 
-    cout << "MySq(3) = " << MySq(3) << endl;
+    cout << "MySq(4) = " << MySq(4) << endl; // 3 исправил на 4
 
     return 0;
 }
