@@ -6,5 +6,6 @@ using namespace std;
 int main()
 {
     Print_Sergey_01();
+    cout << "MySq(3) = " << MySq(3) << endl;
     return 0;
 }

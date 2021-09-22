@@ -7,3 +7,8 @@ void Print_Sergey_01()
 {
     cout << "Sergey_01" << endl;
 }
+
+int MySq(int x)
+{
+    return x*x;
+}
