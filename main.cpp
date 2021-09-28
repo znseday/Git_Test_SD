@@ -9,6 +9,7 @@ int main()
     Print_Sergey_01();
     Print_Sergey_02();
     PrintDasha_01();
+    PrintDasha_02();
 
     cout << "MySq(4) = " << MySq(4) << endl; // 3 исправил на 4
 
