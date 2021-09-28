@@ -11,7 +11,7 @@ int main()
     PrintDasha_01();
     PrintDasha_02();
 
-    cout << "MySq(4) = " << MySq(4) << endl; // 3 исправил на 4
+    cout << "MySq(5) = " << MySq(5) << endl; // 3 исправил на 4, а потом на 5
 
     return 0;
 }
