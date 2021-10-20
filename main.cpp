@@ -10,6 +10,7 @@ int main()
     Print_Sergey_02();
 
     PrintDasha_01();
+    // Комментарий из ветки dev
 
     return 0;
 }
