@@ -13,6 +13,5 @@ HEADERS += \
     MyLib_01.h
 
 
-DISTFILES += \
-    Temp2.txt
+DISTFILES +=
 

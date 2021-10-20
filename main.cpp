@@ -13,6 +13,7 @@ int main()
     cout << "MySq(5) = " << MySq(5) << endl; // 3 исправил на 4, а потом на 5
     // Комментарий из ветки dev
     cout << "It's from master" << endl;
+    // Еще один комментарий из мастера, удаляем файл Temp2
 
     return 0;
 }
