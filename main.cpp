@@ -10,8 +10,8 @@ int main()
     Print_Sergey_02();
     PrintDasha_01();
     PrintDasha_02();
-
     cout << "MySq(5) = " << MySq(5) << endl; // 3 исправил на 4, а потом на 5
+    // Комментарий из ветки dev
 
     return 0;
 }
