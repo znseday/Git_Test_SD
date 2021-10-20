@@ -12,5 +12,4 @@ HEADERS += \
     LibDasha.h \
     MyLib_01.h
 
-DISTFILES += \
-    Temp.txt
+DISTFILES +=
